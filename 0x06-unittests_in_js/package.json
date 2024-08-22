@@ -1,0 +1,14 @@
+{
+  "name": "task_0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
